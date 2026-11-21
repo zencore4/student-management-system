@@ -32,3 +32,30 @@ A menu-driven console application built in **Python** using **Object-Oriented Pr
 
 1. Make sure Python 3 is installed
 2. Clone the repository:
+
+
+
+
+
+
+
+
+
+
+
+
+## Limitations
+
+- Data is stored in memory only, so it is lost when the program closes
+
+## Future Improvements
+
+- Save data to a file (JSON/CSV) or database
+- Add update and delete options
+- Add input validation (for example, handling non-numeric input)
+- Prevent duplicate roll numbers
+- Build a GUI version using Tkinter
+
+## Author
+
+Your Name
